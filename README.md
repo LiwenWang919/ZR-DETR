@@ -1,1 +1,1 @@
-[Under Peer Review] ZR-DETR:Learning Zoom and Relation Prior for Fetal Structure Detection in Challenging Scenarios
+[NeurIPS] ZR-DETR: Learning to Zoom with Anatomical Relations for Medical Structure Detection by Liwen Wang, Bin Pu, Xingbo Dong, Xingguo Lv, Zhe Jin.
